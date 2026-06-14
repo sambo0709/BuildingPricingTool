@@ -1,0 +1,14 @@
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.AssemblyInfoInputs.cache
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.AssemblyInfo.cs
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.csproj.CoreCompileInputs.cache
+/Users/samuel/BuildingPricingTool/bin/Debug/net10.0/BuildingPricingTool
+/Users/samuel/BuildingPricingTool/bin/Debug/net10.0/BuildingPricingTool.deps.json
+/Users/samuel/BuildingPricingTool/bin/Debug/net10.0/BuildingPricingTool.runtimeconfig.json
+/Users/samuel/BuildingPricingTool/bin/Debug/net10.0/BuildingPricingTool.dll
+/Users/samuel/BuildingPricingTool/bin/Debug/net10.0/BuildingPricingTool.pdb
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.dll
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/refint/BuildingPricingTool.dll
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.pdb
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/BuildingPricingTool.genruntimeconfig.cache
+/Users/samuel/BuildingPricingTool/obj/Debug/net10.0/ref/BuildingPricingTool.dll
