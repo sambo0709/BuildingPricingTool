@@ -1,0 +1,30 @@
+
+            Building Estimate Report
+            ------------------------
+            
+            Customer: tester
+            Project: test pole barn
+            
+            Building Dimensions
+            -------------------
+            width: 40 ft
+            length: 60 ft
+            Wall height: 14 ft
+            Roof Pitch: 4/12
+            
+            Area Breakdown
+            --------------
+            Floor Area: 2400.00 sq ft
+            Wall Area: 2800.00 sq ft
+            Roof Area: 2529.82 sq ft
+            Total Estimated Area: 7729.82 sq ft
+            
+            Cost Breakdown
+            --------------
+            Material Cost: $139136.80
+            Labor Cost: $61838.58
+            Door Cost: $1500.00
+            Window Cost: $1200.00
+
+            Total Estimated Cost: $203675.38
+            
